@@ -1,0 +1,38 @@
+div{color: chocolate;
+    width: 200px;
+    text-align: inherit;
+    display:center;
+    margin:15px;
+    gap: 10px;
+}
+.MM{
+    display: flex;
+    gap: 30px;
+}
+img{
+    display: flex;
+    width: 20px;
+height: 20px;
+margin: 0 auto;
+}
+section{
+    width: 500px;
+    text-align: justify;
+}
+footer{
+    display: flex;
+    text-align: justify;
+    background-color: pink;
+    gap: 200px;
+    margin:20px;
+    padding: 90px;
+}
+.moon{
+    width: 200px;
+    margin: 0 auto;
+}
+.hm{
+    display: flex;
+    gap:0 auto;
+}
+

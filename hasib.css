@@ -1,0 +1,19 @@
+.km{
+    width:500px ;
+    margin:0 auto ;
+background-image: url(/flowers/FB_IMG_17155040413433630.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 500px;
+
+}
+.aboutdiv{
+    display: flex;
+    gap: 30px;
+}
+img{
+    width: 70px;
+    display: flex;
+    margin: 0 auto;
+    height: 70px;
+}

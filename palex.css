@@ -1,0 +1,27 @@
+h2{
+    background-color: brown;
+}
+p{
+    background-color: aquamarine;
+}
+h1{
+    background-color: bisque;
+}
+span{
+    background-color:red ;
+    display: block;
+    margin-top: 5px;
+    display: none;
+}
+div{
+    background-color:pink ;
+    padding: 10px;
+    margin: 10px;
+    display:none ;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
